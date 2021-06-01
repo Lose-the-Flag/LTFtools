@@ -12,6 +12,6 @@ requests==2.21.0
 scapy==2.4.2
 six==1.12.0
 typed-ast==1.1.1
-urllib3==1.24.2
+urllib3==1.26.5
 wrapt==1.10.11
 yarg==0.1.9
